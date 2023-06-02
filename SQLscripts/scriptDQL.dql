@@ -1,0 +1,7 @@
+SELECT *
+FROM pedido
+ORDER BY data_pedido DESC;
+
+SELECT *
+FROM produto
+WHERE valor_produto = (SELECT MIN(valor_produto) FROM produto);

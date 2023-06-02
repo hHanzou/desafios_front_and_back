@@ -1,0 +1,38 @@
+INSERT INTO produto (nome_produto, valor_produto)
+VALUES ('Camiseta', 29.99);
+
+INSERT INTO produto (nome_produto, valor_produto)
+VALUES ('Boné', 15.00);
+
+UPDATE produto
+SET valor_produto = 20.00
+WHERE nome_produto = 'Boné';
+
+DELETE FROM produto
+WHERE id_produto = 1;
+
+INSERT INTO pedido (nome_cliente, id_produto, quantidade_produto)
+VALUES ('João', 2, 1);
+
+UPDATE pedido
+SET data_pedido = GETDATE()
+WHERE id_pedido = 1;
+
+DELETE FROM pedido
+WHERE id_pedido = 1;
+
+INSERT INTO pedido (nome_cliente, id_produto, quantidade_produto)
+VALUES ('Osmar', 2, 5);
+
+INSERT INTO pedido (nome_cliente, id_produto, quantidade_produto)
+VALUES ('Vincius', 2, 1);
+
+INSERT INTO produto (nome_produto, valor_produto)
+VALUES ('Chinelo', 15.00);
+
+INSERT INTO produto (nome_produto, valor_produto)
+VALUES ('Óculos', 10.00);
+
+INSERT INTO produto (nome_produto, valor_produto)
+VALUES ('Pão', 10.00);
+

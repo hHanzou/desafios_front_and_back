@@ -1,0 +1,15 @@
+C:\Users\erick\source\repos\DescontoApp\obj\Debug\net6.0\DescontoApp.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\DescontoApp\obj\Debug\net6.0\DescontoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\DescontoApp\obj\Debug\net6.0\DescontoApp.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\DescontoApp\obj\Debug\net6.0\DescontoApp.AssemblyInfo.cs
+C:\Users\erick\source\repos\DescontoApp\obj\Debug\net6.0\DescontoApp.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\DescontoApp\bin\Debug\net6.0\DescontoApp.exe
+C:\Users\erick\source\repos\DescontoApp\bin\Debug\net6.0\DescontoApp.deps.json
+C:\Users\erick\source\repos\DescontoApp\bin\Debug\net6.0\DescontoApp.runtimeconfig.json
+C:\Users\erick\source\repos\DescontoApp\bin\Debug\net6.0\DescontoApp.dll
+C:\Users\erick\source\repos\DescontoApp\bin\Debug\net6.0\DescontoApp.pdb
+C:\Users\erick\source\repos\DescontoApp\obj\Debug\net6.0\DescontoApp.dll
+C:\Users\erick\source\repos\DescontoApp\obj\Debug\net6.0\refint\DescontoApp.dll
+C:\Users\erick\source\repos\DescontoApp\obj\Debug\net6.0\DescontoApp.pdb
+C:\Users\erick\source\repos\DescontoApp\obj\Debug\net6.0\DescontoApp.genruntimeconfig.cache
+C:\Users\erick\source\repos\DescontoApp\obj\Debug\net6.0\ref\DescontoApp.dll

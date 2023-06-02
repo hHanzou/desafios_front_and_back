@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    display: flex;
+    place-items: center;
+    min-width: 320px;
+    min-height: 100vh;
+
+}
+
+.content{
+    width: 38em;
+    height: 32em;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 40px;
+    box-shadow: 0px 0px 11px 0px rgba(0,0,0,0.75);
+}
+.form-area{
+    border-radius: 0 40px 40px 0; 
+    background-color: rgb(42, 47, 63);
+    width: 55%;
+}
+.logo-area{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(104,255,194,1) 0%, rgba(0,212,255,1) 67%);
+    border-radius: 40px 0 0 40px;
+    width: 45%;
+}
+
+/* logo */
+
+.div-img{
+    padding-top: 65%;
+}
+
+.logo-img{
+    width: 150px;
+    height: 150px;
+}
+
+/* form */
+
+.form-title{
+    padding: 5% 0 2% 0;
+    letter-spacing: 1px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: 700;
+}
+.form-subtitle{
+    padding-bottom: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(47, 232, 227);
+    font-size: 0.8em;
+    letter-spacing: 1px;
+
+}
+.form-section{
+    display: grid;
+    font-size: 14px;
+}
+
+input{
+    margin-left: 15%;
+    width: 70%;
+    background-color: #ffffff00;
+    border: none;
+    border-bottom: 1px solid;
+    border-color: gray;
+}
+
+input:focus{
+   outline: none;
+}
+
+.input-box{
+    width: auto;
+    margin-left: auto;
+    vertical-align: middle;
+}
+
+.input-button{
+    margin-top: 25px;
+    width: 40%;
+    height: 30px;
+    margin-left: 30%;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    background-color: rgb(47, 232, 227);
+    border: none;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.input-button:hover{
+    background-color: rgb(134, 214, 212) ;
+}
+
+.termos{
+    color: rgb(47, 232, 227);
+    font-size: 11px;
+    
+}
+
+.form-input{
+    margin-left: 15%;
+    text-align: left;
+
+}
+
+form a{
+    margin-top: 10px;
+    color: rgba(255, 255, 255, 0.541);
+    font-size: 11px;
+}
+form a:hover{
+    color: #fff;
+}
